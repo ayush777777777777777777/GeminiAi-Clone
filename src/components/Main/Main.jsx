@@ -11,7 +11,7 @@ const Main = () => {
   return (
     <div className="main">
       <div className="nav">
-        <p>Gemini</p>
+        <p>Pappu Chat Bot</p>
         <img src={assets.user_icon} alt="Image error" />
       </div>
       <div className="main-container">
@@ -74,8 +74,8 @@ const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            Gemini may display inaccurate info, including about people, so double-check its responses.
-            your privacy and Gemini Apps
+            Pappu Chat Bot may display inaccurate info, including about people, so double-check its responses.
+            your privacy and Pappu Chat Bot Apps
           </p>
         </div>
       </div>
